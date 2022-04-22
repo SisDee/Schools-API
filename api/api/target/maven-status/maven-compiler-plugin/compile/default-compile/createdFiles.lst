@@ -1,0 +1,6 @@
+com\schools\api\service\SchoolService.class
+com\schools\api\controller\SchoolController.class
+com\schools\api\repository\SchoolRepository.class
+com\schools\api\ApiApplication.class
+com\schools\api\controller\DefaultController.class
+com\schools\api\entity\School.class
